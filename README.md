@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mianraya
+- 👋 Hi, I’m @rayahmian
 - 👀 I’m interested in artificial intelligence
 - 🌱 I’m currently learning data analysis using R, SQL and Tableau
 - 💞️ I’m looking to collaborate on innovative new projects
