@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rayahmian
 - 👀 I’m interested in data analytics & artificial intelligence
 - 🌱 I’m currently learning data analysis using R, SQL and Tableau
-- 💞️ I’m looking to collaborate on innovative new projects
+- 💞️ I’m looking to collaborate on innovative projects
 - 📫 Reach me at rayah.mian@outlook.com
 
 <!---
